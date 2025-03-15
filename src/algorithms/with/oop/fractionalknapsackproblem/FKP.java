@@ -1,4 +1,4 @@
-package algorithms.without.oop;
+package algorithms.with.oop.fractionalknapsackproblem;
 import java.util.Arrays;
 import java.util.Comparator;
 
