@@ -1,4 +1,4 @@
-package fractional.knapsack.problem;
+package algorithms.with.oop.fractionalknapsackproblem;
 
 import java.util.Comparator;
 

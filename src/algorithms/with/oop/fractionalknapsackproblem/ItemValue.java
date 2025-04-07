@@ -1,4 +1,4 @@
-package fractional.knapsack.problem;
+package algorithms.with.oop.fractionalknapsackproblem;
 
 public class ItemValue {
 	private int object;

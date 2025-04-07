@@ -1,7 +1,10 @@
-package fractional.knapsack.problem;
+package algorithms.with.oop.fractional.knapsack.problem;
 
 import java.util.ArrayList;
 import java.util.Collections;
+
+import algorithms.with.oop.fractionalknapsackproblem.FKPComparator;
+import algorithms.with.oop.fractionalknapsackproblem.ItemValue;
 
 public class FKPMain {
 
